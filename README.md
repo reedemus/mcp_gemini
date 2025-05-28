@@ -49,4 +49,8 @@ Example of MCP server and client using Gemini
 3. **Exit:**
    Type `quit` in the chat to exit.
 
+## Notes
+
+   MCP support in Gemini SDK 1.16.1 is experimental, and the API is subject to change in future versions.
+
 ---
